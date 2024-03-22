@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(83, 54, 110);
+    font-size: 20px;    
+    color: #ffffff;
+}
+#Platillo{
+    color: #000000;
+    background-color: #cfcfcf ;
+    display: block;
+   height: 25%;
+   width: 25%;
+    align-items: center;
+    border: 3px #000000 solid;
+    padding: 10px;    
+    text-align: center;
+    margin: auto;
+    border-radius: 40px;
+}
